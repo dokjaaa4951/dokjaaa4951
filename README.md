@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Agil Miswary</h1>
 <h3 align="center">Just an ordinary student who wants to try something new</h3>
 
-- 🔭 I’m currently working on **S**
 
 - 🌱 I’m currently learning **Frameworks,Frontend,Backend**
 
